@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Okechukwu God'spraise</h1>
-<h3 align="center">I am a passionate backend developer interested in building medtech and fintech solutions</h3>
+<h3 align="center">I am a backend developer who is passionate about learning new things </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praze-hub" alt="praze-hub" /></a> </p>
 
