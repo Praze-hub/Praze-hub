@@ -27,7 +27,7 @@
 
 ### 🤖 AI / ML  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![NLTK](https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logo=python&logoColor=white)  ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)  ![Gensim](https://img.shields.io/badge/Gensim-2C2C32?style=for-the-badge&logo=python&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)  ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFDA1F?style=for-the-badge&logo=python&logoColor=black)  ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)  ![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-48C774?style=for-the-badge&logo=coqui&logoColor=white)  
 
 ---
 
