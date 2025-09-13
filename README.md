@@ -3,35 +3,15 @@
 
 # 👋 Hi, I'm Okechukwu Godspraise
 
-💡 **About Me**  
-I’m a Mechatronics Engineering graduate passionate about building scalable software and intelligent systems. My work spans **backend engineering, product design, and AI research**, with hands-on experience turning ideas into real-world products.  
-
 ---
 
 ## 🚀 What I Do  
 - 🖥️ **Software Engineering**: Building robust APIs and platforms with **Python (Django, DRF, Flask, FastAPI)**, Docker, and PostgreSQL.  
-- 🤖 **AI & Machine Learning**: Applying NLP, computer vision, and multilingual models to solve real problems—like low-resource language translation and medical chatbots.  
-- 🔧 **Hardware & Robotics**: Exploring AI-driven drones and autonomous systems, merging hardware with intelligent software.  
-- 🛠️ **Products I've Built**:  
-   - **[Hustle](#)** – artisan marketplace connecting skilled workers with customers  
-   - **[Cross](#)** – fleet management system for truck activities  
-   - **[Shelf](#)** – online library management system  
-   - **[Surveillance Drone](#)** – Raspberry Pi–powered drone with object detection  
-
+- 🤖 **AI & Machine Learning**: Applying NLP, computer vision, and multilingual models to solve problems.  
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 ---
 
