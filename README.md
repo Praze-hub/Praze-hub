@@ -21,7 +21,7 @@ I am interested in the intersection of theory and practice, how the ideas from a
 
 ---
 
-### NLP Research — Language Where It's Hardest
+### NLP Research
 
 My research interest sits at one of the most underexplored and impactful corners of NLP: **machine translation for low-resource languages**.
 
