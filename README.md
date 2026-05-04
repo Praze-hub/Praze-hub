@@ -1,6 +1,6 @@
 # Hey, I am God'spraise Okechukwu
 
-I'm a **Backend Software Engineer** and **NLP Researcher** with a deep curiosity for how complex systems are designed, scaled, and made to understand human language.
+I am a **Backend Software Engineer** and **NLP Researcher** with a deep curiosity for how complex systems are designed, scaled, and made to understand human language.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a **Backend Software Engineer** and **NLP Researcher** with a deep curiosity
 
 There is something deeply fascinating about what happens when a single machine is no longer enough.
 
-I am captivated by the engineering challenges that emerge when systems must coordinate across multiple nodes consistency vs. availability trade-offs, fault tolerance, consensus protocols, and the elegant heuristics engineers use to reason about an inherently unpredictable world. 
+I am captivated by the engineering challenges that emerge when systems must coordinate across multiple nodes, think consistency vs. availability trade-offs, fault tolerance and the elegant heuristics engineers use to reason about an inherently unpredictable world. 
 
 I regularly read textbooks and papers on distributed systems from the classic *Designing Data-Intensive Applications* to foundational papers like the Google Bigtable and Dynamo papers because I believe that knowing *why* a system is designed the way it is makes you a far better engineer than just knowing *how* to use it. Questions that keep me up at night:
 
