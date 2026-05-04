@@ -1,10 +1,10 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I am God'spraise Okechukwu
 
 I'm a **Backend Software Engineer** and **NLP Researcher** with a deep curiosity for how complex systems are designed, scaled, and made to understand human language.
 
 ---
 
-## 🧠 What Drives Me
+## What Drives Me
 
 ### Distributed Systems
 
@@ -31,7 +31,7 @@ My goal is to contribute to making NLP more equitable, building systems that ser
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
